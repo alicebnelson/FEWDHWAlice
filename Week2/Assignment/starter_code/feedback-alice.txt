@@ -1,0 +1,34 @@
+Use HTML5 structural elements (nav, header, footer)
+  - Good!
+
+Use a CSS Reset file in addition to your style.css file to style the page
+  - Good!
+
+Use IDs and Classes to select and style elements on the page
+  - Good!
+
+Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
+  - Good!
+
+Indent nested elements to increase your code's readability
+  - Good!
+
+Use CSS display and float to get the layout correct
+  - Good!
+
+
+Additional Comments:
+
+Hey, you did the enhanced layout! Awesome! This looks really good. Your nesting of elements looks great, and you definitely are getting the hang of using divs.
+
+One little thing: I think you used "visited" incorrectly in the CSS on line 298. It's not a property like color or margin. It's a pseudo selector like hover. You use it like this:
+
+.signUpButtonText:visited {
+  color: red;
+}
+
+So it's like, when this class has this state on it (the link has already been visited), display it like this.
+
+But I'm really impressed that you were trying out new CSS properties.
+
+Well done! Let me know if you have any questions.
