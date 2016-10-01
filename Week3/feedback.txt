@@ -1,0 +1,18 @@
+Use floats or inline-block in your CSS to achieve a two-column layout
+ - Good!
+Use the correct Open Sans Google Font typeface to style the text denoted in the design file and according to the JPEG provided
+ - Good!
+Use proper filename conventions (lowercase, .html)
+ - Good!
+Use an external CSS stylesheet to style your page
+ - Good!
+Make sure that all images are no wider than their containers
+ - Good!
+Add a hover effect to all the links using pseudo-classes
+ - Good!
+Integrate drop caps using pseudo-classes
+ - Good!
+
+Additional Comments:
+
+ - Great job! Awesome attention to detail in terms of spacing, sizes, and colors. Your HTML is well formatted and you CSS class names are consistent and descriptive.
