@@ -1,0 +1,1 @@
+Alice, this looks great! All your JavaScript is working. I like that you added the "fast" and "slow" arguments on lines 15 and 16. That's a nice effect. I don't really have any other feedback. Well done.
