@@ -1,0 +1,1 @@
+This is a solid layout, nice work. For the next milestone make sure you're thinking about the type of javascript functionality you're going to have on the page.
