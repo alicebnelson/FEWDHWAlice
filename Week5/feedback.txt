@@ -1,0 +1,40 @@
+Call $.val() on inputs to get the string value of your user's input
+ - Good!
+Store user input in var city
+ - Good!
+Use $.on("submit") or $.click to figure out when the user clicks the "submit" button
+ - Good!
+Create if / else if / else conditionals to control the flow of your application
+ - Good!
+Write at least six different lines of pseudocode and display them inline as JavaScript comments
+ - Good!
+Prevent a form submission using the event.preventDefault() function
+ - Good!
+Use the $.ready() handler to delay your code from executing until all DOM assets have been loaded
+ - Good!
+Get the first element from an attribute name using $.attr()
+ - Good!
+Use the || operator in your conditionals to allow for multiple string values to execute if/else if statement code
+ - Good!
+If a user submits:
+
+"New York" or "New York City" or "NYC" make the background of the page nyc.jpg
+ - Good!
+"San Francisco" or "SF" or "Bay Area" make the background of the page sf.jpg
+ - Good!
+"Los Angeles" or "LA" or "LAX" make the background of the page la.jpg
+ - Good!
+"Austin" or "ATX" make the background of the page austin.jpg
+ - Good!
+"Sydney" or "SYD" make the background of the page sydney.jpg
+ - Good!
+
+Additional Comments:
+
+- Great job! All the functionality is there and your javascript is clean and readable. Everything is properly indented and your variable & function names are concise and descriptive.
+
+- Good use of the '===' operator to compare both value and type.
+
+- Good use of .trim() to remove extra white space.
+
+- Good use of .toLowerCase() to show the appropriate image regardless of how the input is cased.
