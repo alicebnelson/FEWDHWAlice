@@ -1,0 +1,31 @@
+Create an array with the following values: "NYC", "SF", "LA", "ATX", "SYD"; use the array to add values to the <select> menu by using a for loop in JavaScript (don't update the HTML to do this!)
+  - Good!
+When the user changes the input of the drop-down, update the background image based on what they selected
+  - Good!
+Use $.append() in your iteration on the drop-down menu
+  - Good!
+Use the $.attr() function to update html classes
+  - Good!
+Get the value of user input using $.val()
+  - Good!
+Use the $.change event handler to capture user actions
+  - Good!
+Use if/else if/else conditionals to control the flow of your application
+  - Good!
+Display your pseudocode as Javascript comments
+  - Good!
+
+
+
+Additional Comments:
+
+Everything is working. Your array and for loop look good. You could have written it like this to save having to type all those <option>s in the array:
+
+  var cities = ["NYC", "SF", "LA", "ATX", "SYD"];
+
+  for (var i = 0; i < cities.length; i++) {
+    $("#city-type").append($("<option>" + cities[i] + "</option>"));
+
+The way you did it is completely fine, it works, but this way involves a little less code by making the loop do all the work.
+
+Overall, well done. And I like that you put that little background picture on the dropdown box.
