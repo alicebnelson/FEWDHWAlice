@@ -335,8 +335,8 @@ label {
 }
 
 
-.alignRight select {
-  font-size: 100px;
+.alignRight{
+  font-size: 100%;
 }
 
 .styleSelect{
@@ -353,6 +353,10 @@ label {
   padding-bottom: 50px;
   display: inline-block;
   padding-top: 50px;
+}
+
+select{
+  background: white;
 }
 
 @media only screen and (max-width: 768px) {
