@@ -1,0 +1,19 @@
+Use media queries at a 768px breakpoint
+ - Good!
+As a user changes the size of a browser window:
+
+Content remains in appropriate divs
+ - Good!
+Content remains visible to the user
+ - Good!
+Fonts change size appropriately
+ - Good job resizing the hero text and blog post headers.
+Margins and padding change size appropriately
+ - Good!
+Content does not overlap
+ - Good!
+In the blog section, the two-column layout changes to a single-column layout when appropriate
+ - Good!
+
+Additional Comments:
+ - Good job! Everything has been switched to a percentage based layout and the text size and margins adjust nicely at smaller screen sizes.
