@@ -291,8 +291,8 @@ width:200px;
 }
 
 #personaSizing{
-  height: 55%;
-  width: 55%;
+  height: 60%;
+  width: 60%;
 }
 
 .smallerHeaderText{
@@ -317,6 +317,8 @@ width:200px;
   height: 20%;
   width: 20%;
 }
+
+
 
 .certificateSize{
   height: 30%;
@@ -348,6 +350,7 @@ width:200px;
 .centering5{
   left: 5%;
 }
+
 
 #about{
   background-color: white;
